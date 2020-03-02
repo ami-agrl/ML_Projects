@@ -1,6 +1,6 @@
 # ML_Projects
 
-This repository is used to upload all the Academic projects done in the field of Artificial Intelligence.
+This repository is used to upload all the Academic projects done in the field of Artificial Intelligence & Machine Learning.
 
 It also includes the projects done as part of self learning process.
 
