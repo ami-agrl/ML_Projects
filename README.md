@@ -1,11 +1,8 @@
-# ML_Projects
+# Machine-Learning-Projects
 
-This repository is used to upload all the Academic projects done in the field of Artificial Intelligence & Machine Learning.
-
-It also includes the projects done as part of self learning process.
+This repository is used for Self Learning / Academic projects done in the field of Artificial Intelligence & Machine Learning.
 
 All the projects follow below naming convention to be more identifiable and clear.
-
 ```
 <branch>-<project-shortname>-<domain>-<AP/SLP>-<language>-<year>
 ```
